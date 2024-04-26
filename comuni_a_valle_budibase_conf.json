@@ -1,0 +1,92 @@
+
+{
+  "global_legend": "",
+  "name": "Dighe:comuni a valle",
+  "header_popup": "Dighe",
+  "strategy_features": "not_intersect",
+  "layers": [
+    {
+      "key": 0,
+      "label": "Area IT-Alert"
+    },
+    {
+      "key": 1,
+      "label": "Comuni a valle"
+    },
+    {
+      "key": 2,
+      "label": "Anagrafica dighe"
+    }
+  ],
+  "today": {
+    "attachment": [],
+    "topo_json": [
+      "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/dighe_aree_semplificate.geojson",
+      "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/comuni_a_valle.geojson",
+      "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/anagrafica_dighe_04_2024.geojson"
+    ],
+    "html_description": ""
+  },
+  "style": [
+    "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/dighe_aree_semplificate_style.json",
+    "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/comuni_a_valle_style.json",
+    "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
+  ],
+      "leaflet": {
+    "tooltip": [
+    {
+      "key": 1,
+      "properties": [
+       {
+          "key": "nomeComune",
+          "label": "Comune"
+        }
+       ]
+    }
+   ]
+  },
+  "feature_sidebar": {
+    "header": "DIGHE"
+  },
+  "feature_table": {
+  "load_on_startup": false
+  },
+  "filter_config": {
+    "url": "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/comuni_valle_dighe_budibase_filter_conf.json",
+    "refresh": true,
+   "filters_url": [
+      {
+        "value": "nome_diga",
+        "binding_key": "nome Diga"
+      },
+     {
+        "value": "id_diga",
+        "binding_key": "idDiga"
+      }
+   ],  
+    "filters_type": [
+      {
+        "filter_function": "exactValue",
+        "binding_key": "idDiga",
+        "operator": "or",
+        "filter_on_fields": [
+          "idDiga"
+        ],
+        "layers": [
+         0, 1, 2
+        ]
+      },
+     {
+        "filter_function": "textInclude",
+        "binding_key": "nome Diga",
+        "operator": "or",
+        "filter_on_fields": [
+          "nomeDiga"
+        ],
+        "layers": [
+         0, 1, 2
+        ]
+      }
+    ]
+  }
+}

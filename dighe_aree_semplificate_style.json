@@ -1,0 +1,54 @@
+{
+    "style_properties": [
+      {
+        "propertyKey": "idDiga",
+        "properties": [
+            {
+                "property": "fillColor",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "#987db7"
+                  }
+                ]
+              },
+              {
+                "property": "weight",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "1.5"
+                  }
+                ]
+              },
+              {
+                "property": "opacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".9"
+                  }
+                ]
+              },
+              {
+                "property": "fillOpacity",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": ".5"
+                  }
+                ]
+              },
+              {
+                "property": "color",
+                "values": [
+                  {
+                    "key": "*",
+                    "value": "black"
+                  }
+                ]
+              }
+        ]
+      }
+    ]
+  }

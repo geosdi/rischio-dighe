@@ -1,0 +1,18 @@
+{
+    "style_properties": [
+    {
+		"propertyKey": "idDiga",
+		"properties": [
+			{
+				"property": "icon",
+				"values": [
+				    {
+						"key": "*",
+						"value": "url(https://raw.githubusercontent.com/geosdi/rischio-dighe/main/diga.png)"
+					}
+				]
+			}
+		]
+	}
+  ]
+}

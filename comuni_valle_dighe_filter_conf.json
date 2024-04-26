@@ -1,0 +1,22 @@
+{
+  "form_groups": [
+    {
+      "fields": [
+        {
+          "field_type": "TEXT",
+          "placeholder": "idDiga (nArc+sub)",
+          "binding_key": "idDiga"
+        },
+         {
+          "field_type": "TEXT",
+          "placeholder": "nome Diga",
+          "binding_key": "nome Diga"
+        },
+        {
+          "field_type": "BUTTON"
+        }
+      ]
+    }
+  ]
+  
+}
