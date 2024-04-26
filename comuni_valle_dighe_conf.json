@@ -29,7 +29,7 @@
   "style": [
     "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/dighe_aree_semplificate_style.json",
     "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/comuni_a_valle_style.json",
-    "https://raw.githubusercontent.com/geosdi/ran-test/main//dighe/anagrafica_dighe_style.json"
+    "https://raw.githubusercontent.com/geosdi/rischio-dighe/main/anagrafica_dighe_style.json"
   ],
     "leaflet": {
     "tooltip": [
