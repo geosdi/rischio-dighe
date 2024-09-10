@@ -3087,8 +3087,8 @@
       "nArc" : "33",
       "sub" : "_",
       "nomeDiga" : "ROCHEMOLLES",
-      "procom_com_valle" : "1022,1175,1232,1100,1080,1114,1117,1270,1044,1076,1245,1040,1239,1305,1032,1256,1093,1283,1081,1055,1255,1303,1013,1045,1228,1062,1062,1219,1008",
-      "nomi_com_valle" : "Bardonecchia,Oulx,Salbertrand,Exilles,Chiomonte,Giaglione,Gravere,Susa,Bussoleno,Chianocco,San Giorio di Susa,Bruzolo,San Didero,Villar Focchiardo,Borgone Susa,Sant'Antonino di Susa,Condove,Vaie,Chiusa di San Michele,Caprie,Sant'Ambrogio di Torino,Villar Dora,Avigliana,Buttigliera Alta,Rosta,Caselette,Caselette,Rivoli,Alpignano"
+      "procom_com_valle" : "1022,1175,1232,1100,1080,1114,1117,1270,1044,1076,1245,1040,1239,1305,1032,1256,1093,1283,1081,1055,1255,1303,1013,1045,1228,1062,1219,1008",
+      "nomi_com_valle" : "Bardonecchia,Oulx,Salbertrand,Exilles,Chiomonte,Giaglione,Gravere,Susa,Bussoleno,Chianocco,San Giorio di Susa,Bruzolo,San Didero,Villar Focchiardo,Borgone Susa,Sant'Antonino di Susa,Condove,Vaie,Chiusa di San Michele,Caprie,Sant'Ambrogio di Torino,Villar Dora,Avigliana,Buttigliera Alta,Rosta,Caselette,Rivoli,Alpignano"
     },
     "geometry" : {
       "type" : "Polygon",
