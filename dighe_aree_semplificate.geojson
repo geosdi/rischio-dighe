@@ -35,8 +35,8 @@
       "nArc" : "EXT",
       "sub" : "_",
       "nomeDiga" : "MONCENISIO",
-      "procom_com_valle" : "1129,6109,2049,1039,6099,1034,1249,1069,1162,6177,6039,1082,1294,6073,6013,2058,2148,6178,6027,6133,6023,6060,2082,1265,1293,1253,1252,1013,6077,1062,1055,1112,1305,1154,1090,1076,1169,1093,1303,1045,1157,1270,1272,1068,1008,1189,1245,1239,1256,1044,1006,1040,1255,1032,2090,1228,1064,1081,1219,1291,1283",
-      "nomi_com_valle" : "Lauriano,Morano sul Po,Crescentino,Brusasco,Moncestino,Brandizzo,San Mauro Torinese,Cavagnolo,Monteu da Po,Valenza,Casale Monferrato,Chivasso,Verrua Savoia,Frassineto Po,Bassignana,Fontanetto Po,Trino,Valmacca,Camino,Pontestura,Bozzole,Coniolo,Motta de' Conti,Settimo Torinese,Verolengo,San Sebastiano da Po,San Raffaele Cimena,Avigliana,Gabiano,Caselette,Caprie,Gassino Torinese,Villar Focchiardo,Mompantero,Collegno,Chianocco,Novalesa,Condove,Villar Dora,Buttigliera Alta,Moncenisio,Susa,Torino,Castiglione Torinese,Alpignano,Pianezza,San Giorio di Susa,San Didero,Sant'Antonino di Susa,Bussoleno,Almese,Bruzolo,Sant'Ambrogio di Torino,Borgone Susa,Palazzolo Vercellese,Rosta,Castagneto Po,Chiusa di San Michele,Rivoli,Venaus,Vaie"
+      "procom_com_valle" : "1189,1090,1157,1169,1291,1154,1270,1044,1076,1245,1040,1239,1032,1305,1256,1093,1283,1081,1055,1255,1303,1013,1006,1045,1062,1228,1219,1008,1272,1249,1265,1068,1112,1034,1252,1064,1082,1253,1293,1129,1162,1069,1039,2049,1294,6099,2058,6077,2090,6027,2148,6109,6133,6060,6039,6073,2082,6178,6023,6177,6013",
+      "nomi_com_valle" : "Pianezza,Collegno,Moncenisio,Novalesa,Venaus,Mompantero,Susa,Bussoleno,Chianocco,San Giorio di Susa,Bruzolo,San Didero,Borgone Susa,Villar Focchiardo,Sant'Antonino di Susa,Condove,Vaie,Chiusa di San Michele,Caprie,Sant'Ambrogio di Torino,Villar Dora,Avigliana,Almese,Buttigliera Alta,Caselette,Rosta,Rivoli,Alpignano,Torino,San Mauro Torinese,Settimo Torinese,Castiglione Torinese,Gassino Torinese,Brandizzo,San Raffaele Cimena,Castagneto Po,Chivasso,San Sebastiano da Po,Verolengo,Lauriano,Monteu da Po,Cavagnolo,Brusasco,Crescentino,Verrua Savoia,Moncestino,Fontanetto Po,Gabiano,Palazzolo Vercellese,Camino,Trino,Morano sul Po,Pontestura,Coniolo,Casale Monferrato,Frassineto Po,Motta de' Conti,Valmacca,Bozzole,Valenza,Bassignana"
     },
     "geometry" : {
       "type" : "Polygon",
@@ -1491,8 +1491,8 @@
       "nArc" : "359",
       "sub" : "A",
       "nomeDiga" : "CASTELLO",
-      "procom_com_valle" : "4146,4172,4047,4205,4092,4122,4033,4237,4166,4197,4075,4240,4244,4116,4104,4215,4217,4128,4198,4246,4228,4143,4171,4087,4045,1178,1136",
-      "nomi_com_valle" : "Murello,Pontechianale,Casteldelfino,Sampeyre,Frassino,Melle,Brossasco,Venasca,Piasco,Rossana,Costigliole Saluzzo,Verzuolo,Villafalletto,Manta,Lagnasco,Savigliano,Scarnafigi,Monasterolo di Savigliano,Ruffia,Villanova Solaro,Torre San Giorgio,Moretta,Polonghera,Faule,Casalgrasso,Pancalieri,Lombriasco"
+      "procom_com_valle" : "4172,4047,4205,4092,4122,4033,4237,4166,4197,4075,4240,4244,4116,4104,4215,4217,4128,4198,4246,4228,4143,4146,4171,4087,4045,1178,1136",
+      "nomi_com_valle" : "Pontechianale,Casteldelfino,Sampeyre,Frassino,Melle,Brossasco,Venasca,Piasco,Rossana,Costigliole Saluzzo,Verzuolo,Villafalletto,Manta,Lagnasco,Savigliano,Scarnafigi,Monasterolo di Savigliano,Ruffia,Villanova Solaro,Torre San Giorgio,Moretta,Murello,Polonghera,Faule,Casalgrasso,Pancalieri,Lombriasco"
     },
     "geometry" : {
       "type" : "Polygon",
@@ -2051,8 +2051,8 @@
       "nArc" : "536",
       "sub" : "_",
       "nomeDiga" : "SAN RUFFINO",
-      "procom_com_valle" : "109003,109002,43032,109039,109036,43035,109038,109005,109017,109010,109008,109035,109006,109024,109037,109034",
-      "nomi_com_valle" : "Belmonte Piceno,Amandola,Monte San Martino,Smerillo,Santa Vittoria in Matenano,Penna San Giovanni,Servigliano,Falerone,Montegiorgio,Magliano di Tenna,Grottazzolina,Rapagnano,Fermo,Monte Urano,Sant'Elpidio a Mare,Porto Sant'Elpidio"
+      "procom_com_valle" : "109002,43032,109039,109036,43035,109038,109005,109003,109017,109010,109008,109035,109006,109024,109037,109034",
+      "nomi_com_valle" : "Amandola,Monte San Martino,Smerillo,Santa Vittoria in Matenano,Penna San Giovanni,Servigliano,Falerone,Belmonte Piceno,Montegiorgio,Magliano di Tenna,Grottazzolina,Rapagnano,Fermo,Monte Urano,Sant'Elpidio a Mare,Porto Sant'Elpidio"
     },
     "geometry" : {
       "type" : "Polygon",
@@ -4343,6 +4343,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "idDiga" : "1241_",
+      "nArc" : "1241",
+      "sub" : "_",
+      "nomeDiga" : "MONTEDOGLIO",
+      "procom_com_valle" : "51001",
+      "nomi_com_valle" : "Anghiari"
+    },
+    "geometry" : {
+      "type" : "Polygon",
+      "coordinates" : [ [ [ 12.02654208941972, 43.600825976143625 ], [ 12.036288393495209, 43.59658722501436 ], [ 12.06062243454595, 43.595597419213334 ], [ 12.0609491735336, 43.59166747555439 ], [ 12.049739456263906, 43.58326218222147 ], [ 12.058816396042593, 43.58146396773999 ], [ 12.069838007328732, 43.57416157900851 ], [ 12.082052831769936, 43.5721904552654 ], [ 12.080792363964017, 43.566012050942724 ], [ 12.10144435739219, 43.54708270045728 ], [ 12.101200755009039, 43.54216716152537 ], [ 12.107474157556453, 43.53374390322528 ], [ 12.097913628817741, 43.52123204633452 ], [ 12.09317161935559, 43.50578610892496 ], [ 12.086589533645359, 43.50399879698141 ], [ 12.08439053140242, 43.49921052246996 ], [ 12.067824098520473, 43.489736650244495 ], [ 12.065923535323234, 43.47713224951371 ], [ 12.074940061035825, 43.462242673663646 ], [ 12.053598025507414, 43.44298022665611 ], [ 12.043354185737334, 43.45071565737336 ], [ 12.052041332342139, 43.46355530525779 ], [ 12.034375215250835, 43.48046336380025 ], [ 12.026391009569947, 43.48598721503926 ], [ 12.009557092344279, 43.48413811399788 ], [ 11.991499396754518, 43.477350716321276 ], [ 11.987444321283592, 43.48997805331861 ], [ 11.977088645418064, 43.495756549731404 ], [ 11.96311292147939, 43.5118631249257 ], [ 11.952936585788803, 43.51113310316025 ], [ 11.949662233522352, 43.52024118771828 ], [ 11.939999793002405, 43.527593537307375 ], [ 11.931582512651158, 43.54416817663701 ], [ 11.924404891858073, 43.54633510367414 ], [ 11.929217029326857, 43.55393415653291 ], [ 11.934798969128844, 43.55351238166119 ], [ 11.948856401900976, 43.560375787467756 ], [ 11.964809634875827, 43.575891507297186 ], [ 11.958385757946319, 43.60012843248467 ], [ 11.939710187431006, 43.60355697954258 ], [ 11.945239138631193, 43.61984079371237 ], [ 11.953400098543803, 43.61493688407509 ], [ 11.972109921066851, 43.61149481819285 ], [ 11.980481102661585, 43.6029810151385 ], [ 12.01081212708616, 43.59879411821422 ], [ 12.022283392350436, 43.592471458131186 ], [ 12.026812198658929, 43.591860941259064 ], [ 12.023250971297003, 43.595994928040916 ], [ 12.02654208941972, 43.600825976143625 ] ] ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "idDiga" : "292_",
       "nArc" : "292",
       "sub" : "_",
@@ -5355,8 +5369,8 @@
       "nArc" : "51",
       "sub" : "_",
       "nomeDiga" : "LAGO D'AVIO",
-      "procom_com_valle" : "17181,17068,17184,17202,17198,17083,17110,17101,17016,17176,17047,17035,17124,17050,17049,17094,17027,17118,17100,17028,17055,17206,17070,17065,17079,16182,17007,17142,16086,17143",
-      "nomi_com_valle" : "Sonico,Edolo,Temù,Vione,Vezza d'Oglio,Incudine,Monno,Malonno,Berzo Demo,Sellero,Cedegolo,Capo di Ponte,Ono San Pietro,Ceto,Cerveno,Losine,Braone,Niardo,Malegno,Breno,Cividate Camuno,Piancogno,Esine,Darfo Boario Terme,Gianico,Rogno,Artogne,Pian Camuno,Costa Volpino,Pisogne"
+      "procom_com_valle" : "17068,17184,17202,17198,17083,17110,17181,17101,17016,17176,17047,17035,17124,17050,17049,17094,17027,17118,17100,17028,17055,17206,17070,17065,17079,16182,17007,17142,16086,17143",
+      "nomi_com_valle" : "Edolo,Temù,Vione,Vezza d'Oglio,Incudine,Monno,Sonico,Malonno,Berzo Demo,Sellero,Cedegolo,Capo di Ponte,Ono San Pietro,Ceto,Cerveno,Losine,Braone,Niardo,Malegno,Breno,Cividate Camuno,Piancogno,Esine,Darfo Boario Terme,Gianico,Rogno,Artogne,Pian Camuno,Costa Volpino,Pisogne"
     },
     "geometry" : {
       "type" : "Polygon",
