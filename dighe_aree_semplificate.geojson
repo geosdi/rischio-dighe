@@ -2625,8 +2625,8 @@
       "nArc" : "607",
       "sub" : "_",
       "nomeDiga" : "GRAMOLAZZO",
-      "procom_com_valle" : "46019,46023,46027,46006,46025,46009,46014,46015,46003,46003",
-      "nomi_com_valle" : "Minucciano,Piazza al Serchio,San Romano in Garfagnana,Camporgiano,Pieve Fosciana,Castelnuovo di Garfagnana,Fosciandora,Gallicano,Barga,Barga"
+      "procom_com_valle" : "46019,46023,46027,46006,46025,46009,46014,46015,46003",
+      "nomi_com_valle" : "Minucciano,Piazza al Serchio,San Romano in Garfagnana,Camporgiano,Pieve Fosciana,Castelnuovo di Garfagnana,Fosciandora,Gallicano,Barga"
     },
     "geometry" : {
       "type" : "MultiPolygon",
