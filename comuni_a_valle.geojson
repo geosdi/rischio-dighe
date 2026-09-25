@@ -17461,6 +17461,20 @@
   }, {
     "type" : "Feature",
     "properties" : {
+      "idDiga" : "56_",
+      "nArc" : "56",
+      "sub" : "_",
+      "nomeDiga" : "LAGO VENINA",
+      "nomeComune" : "Poggiridenti",
+      "procom" : 14051
+    },
+    "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [ [ [ [ 9.938084473223611, 46.16609181246632 ], [ 9.915934966373504, 46.16608830199706 ], [ 9.916501491125917, 46.18069093536623 ], [ 9.932608583999334, 46.18152362302868 ], [ 9.938084473223611, 46.16609181246632 ] ] ] ]
+    }
+  }, {
+    "type" : "Feature",
+    "properties" : {
       "idDiga" : "168_",
       "nArc" : "168",
       "sub" : "_",
